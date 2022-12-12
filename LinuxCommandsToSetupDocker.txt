@@ -1,0 +1,59 @@
+    1  docker
+    2  sudo apt  install docker.io
+    3  sudo systemctl status docker
+    4  cls
+    5  docker run hello-world
+    6  sudo docker run hello-world
+    7  dir
+    8  cd Downloads/
+    9  ll
+   10  cls
+   11  ll
+   12  sudo add-apt-repository universe
+   13  sudo apt-get update
+   14  sudo apt-get install alien
+   15  ll
+   16  sudo alien jdk-8u291-linux-x64.rpm 
+   17  sudo alien -i jdk-8u291-linux-x64.rpm 
+   18  sudo alien jdk-8u291-linux-x64.rpm 
+   19  ll
+   20  cd jdk1.8-1.8.0_291/
+   21  rm -r *
+   22  ll
+   23  sudo rm -r *
+   24  ll
+   25  cd ..
+   26  ll
+   27  rmdir jdk1.8-1.8.0_291/
+   28  ll
+   29  sudo alien -i jdk-8u291-linux-x64.rpm 
+   30  ll
+   31  cd ..
+   32  ll
+   33  cd home
+   34  cd /home
+   35  ll
+   36  cd debtanu/
+   37  ll
+   38  java
+   39  echo $java_home
+   40  find /usr/lib/jvm/java-1.x.x-openjdk
+   41  cd /user/lib
+   42  cd /usr/lib
+   43  ll
+   44  cd jvm
+   45  ls -ltr
+   46  cd /usr
+   47  ll
+   48  cd java
+   49  ll
+   50  cd /home
+   51  ll
+   52  cd debtanu/
+   53  ll
+   54  mkdir
+   55  mkdir files
+   56  cd files
+   57  touch commands.txt
+   58  ll
+   59  history > commands.txt 
